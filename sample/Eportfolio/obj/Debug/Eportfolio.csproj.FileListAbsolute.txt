@@ -1,0 +1,41 @@
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Bot Application.dll.config
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Bot Application.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Bot Application.pdb
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Autofac.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Chronic.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Microsoft.Bot.Builder.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Microsoft.Bot.Connector.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Newtonsoft.Json.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\System.Net.Http.Formatting.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\System.Web.Http.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\System.Web.Http.WebHost.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Autofac.xml
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Microsoft.Bot.Builder.xml
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Microsoft.Bot.Connector.xml
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\Newtonsoft.Json.xml
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\System.Net.Http.Formatting.xml
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\System.Web.Http.xml
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\System.Web.Http.WebHost.xml
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\obj\Debug\Eportfolio.csprojResolveAssemblyReference.cache
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\obj\Debug\Eportfolio.csproj.CoreCompileInputs.cache
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\obj\Debug\Bot Application.dll
+C:\Users\Jannik\source\repos\Eportfolio\Eportfolio\obj\Debug\Bot Application.pdb
