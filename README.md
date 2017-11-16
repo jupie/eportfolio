@@ -76,3 +76,17 @@ Debug the Bot with Bot Framework emulator
 3. Start the Emulator
 4. Paste the URL to the url prompt add &quot;&lt;the url&gt;/api/messages&quot;
 
+Using the Microsoft REST API's
+
+Microsoft has many API's which could be used (most of them are not for free) 
+  1. Visit https://dev.botframework.com/
+  2. Sign in with your Microsoft ID or Register
+  3. Click "Create a Bot"
+  4. Select "Register an existing bot built using Bot Builder SDK"
+  5. Fill the form
+  6. Click ok
+  7. Click Create Microsoft App ID and password
+  
+  MicrosoftAppID and MicrosoftAppPassword are Key Values in the web.config
+  
+
