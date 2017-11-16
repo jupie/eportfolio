@@ -11,11 +11,11 @@ A bot is a Robot. In case of This framework it is a new method to interact with 
 Businesscases
 
 (Enter Business Cases here)
-
-
-
-
-
+  
+  
+  
+  
+  
 The core concepts
 
 Channel
