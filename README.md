@@ -93,7 +93,6 @@ MicrosoftAppID and MicrosoftAppPassword are Key Values in the web.config
 
 # Links
 
-| Content | Link |
 | Bot Application | [http://aka.ms/bf-bc-vstemplate](http://aka.ms/bf-bc-vstemplate) |
 | --- | --- |
 | Bot Controller | [http://aka.ms/bf-bc-vscontrollertemplate](http://aka.ms/bf-bc-vscontrollertemplate) |
